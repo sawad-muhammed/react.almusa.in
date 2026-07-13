@@ -34,5 +34,5 @@ jobs:
           context: .
           push: true
           tags: |
-            yourdockerhubusername/your-image-name:${{ github.ref_name }}
-            yourdockerhubusername/your-image-name:latest
+            almusa/react-study:${{ github.ref_name }}
+            almusa/react-study:latest
